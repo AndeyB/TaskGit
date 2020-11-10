@@ -87,7 +87,7 @@ body{
 .footer{
 	padding: 20px;
 	text-align: center;
-	background: #A66F58FF; 
+	background: url(img/Фон.png);
 }
 
 @media screen and (max-width: 700px){
